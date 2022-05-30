@@ -1,13 +1,13 @@
 # main links
 main:
    - title: "Research"
-     url: /docs/research/
-   - title: "People"
-     url: /docs/People.md
+     url: /docs/research.md
+     - title: "People"
+     url: /docs/people.md
    - title: "Sitemap"
-     url: /docs/funding/
+     url: /docs/funding.md
    - title: "Teaching"
-     url: /docs/teaching/
+     url: /docs/teaching.md
    - title: "CMD how-tos"
-     url: /docs/how-tos/
+     url: /docs/how-tos.md
 
