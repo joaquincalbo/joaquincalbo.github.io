@@ -2,7 +2,7 @@
 main:
    - title: "Research"
      url: /docs/research.md
-     - title: "People"
+   - title: "People"
      url: /docs/people.md
    - title: "Sitemap"
      url: /docs/funding.md
