@@ -4,9 +4,10 @@ main:
      url: /docs/research/
    - title: "People"
      url: /docs/people/
+   - title: "Sitemap"
+     url: /docs/Funding/
    - title: "Teaching"
      url: /docs/teaching/
    - title: "CMD how-tos"
-     url: /docs/how-tos
-  # - title: "Sitemap"
-  #   url: /sitemap/
+     url: /docs/how-tos/
+
