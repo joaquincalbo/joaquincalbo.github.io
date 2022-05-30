@@ -1,7 +1,7 @@
 # main links
 main:
    - title: "Research"
-     url: /docs/research.md
+     url: /research.md
    - title: "People"
      url: /people/
    - title: "Funding"
