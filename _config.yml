@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Computational Materials Design"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name (MY name is whatever)"
-description              : "An amazing website. WTF"
+name                     : "Joaquín Calbo"
+description              : "Computational Materials Design"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Joaquín Calbo"
-  avatar           : "assets/images/Joaquín Calbo 2021 087.jpg"
-  bio              : "I am a researcher at the Institute of Molecular Science (Universitat de València) and a faculty member at the Department of Physical Chemistry"
+  avatar           : "assets/images/image1.jpg"
+  bio              : "Researcher at the Institute of Molecular Science and faculty member at the Department of Physical Chemistry of the Universitat de València"
   location         : "Somewhere"
   email            :
   links:
