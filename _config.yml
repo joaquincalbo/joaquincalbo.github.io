@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Joaquín Calbo"
   avatar           : "assets/images/image1.jpg"
-  bio              : "Researcher at the Institute of Molecular Science and faculty member at the Department of Physical Chemistry of the\nUniversitat de València"
-  location         : "Somewhere"
+  bio              : "Researcher at the Institute of Molecular Science and Assistant Professor at the Department of Physical Chemistry of the Universitat de València"
+  location         : "Valencia (SPAIN)"
   email            :
   links:
     - label: "Email"
