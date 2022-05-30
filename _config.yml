@@ -107,15 +107,12 @@ author:
   name             : "Joaquín Calbo"
   avatar           : "assets/images/image1.jpg"
   bio              : "Researcher at the Institute of Molecular Science and Assistant Professor at the Department of Physical Chemistry of the Universitat de València"
-  location         : # "Valencia - SPAIN"
+  location         : "Valencia - SPAIN"
   email            :
   links:
-    - label: "Valencia - SPAIN"
-      icon: "fas fa-fw fa-location-dot"
-      url: "https://www.google.com/maps/place/Valencia/@39.4077852,-0.3615113,12z/data=!3m1!4b1!4m5!3m4!1s0xd604f4cf0efb06f:0xb4a351011f7f1d39!8m2!3d39.4699075!4d-0.3762881"
     - label: "joaquin.calbo@uv.es"
       icon: "fas fa-fw fa-envelope-square"
-      url: ""
+      url: "mailto:joaquin.calbo@uv.es"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
