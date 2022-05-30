@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Joaquín Calbo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am a researcher at the Institute of Molecular Science (Universitat de València) and a faculty member at the Department of Physical Chemistry"
   location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:joaquin.calbo@uv.es"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
