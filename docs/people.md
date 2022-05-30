@@ -1,6 +1,6 @@
 ---
 layout: page
-author_profile: false
+permalink: /people/
 ---
 
 Hello world
