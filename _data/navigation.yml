@@ -3,7 +3,7 @@ main:
    - title: "Research"
      url: /docs/research.md
    - title: "People"
-     url: /docs/people.md
+     url: /people/
    - title: "Funding"
      url: /docs/funding.md
    - title: "Teaching"
