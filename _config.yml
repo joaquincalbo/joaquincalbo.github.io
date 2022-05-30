@@ -110,9 +110,9 @@ author:
   location         : #"Valencia - SPAIN"
   email            :
   links:
-    - label: "Location"
+    - label: "Valencia - SPAIN"
       icon: "fas fa-fw fa-location-dot"
-      url: "https://www.google.com/maps/place/Valencia/@39.4077852,-0.3615113,12z/data=!3m1!4b1!4m5!3m4!1s0xd604f4cf0efb06f:0xb4a351011f7f1d39!8m2!3d39.4699075!4d-0.3762881"
+      url: "[a link](https://www.google.com/maps/place/Valencia/@39.4077852,-0.3615113,12z/data=!3m1!4b1!4m5!3m4!1s0xd604f4cf0efb06f:0xb4a351011f7f1d39!8m2!3d39.4699075!4d-0.3762881){:target="_blank"}"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:joaquin.calbo@uv.es"
