@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Joaquín Calbo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/Joaquín Calbo 2021 087.jpg"
   bio              : "I am a researcher at the Institute of Molecular Science (Universitat de València) and a faculty member at the Department of Physical Chemistry"
   location         : "Somewhere"
   email            :
