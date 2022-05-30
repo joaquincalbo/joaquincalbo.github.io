@@ -10,4 +10,5 @@ main:
      url: /teaching/
    - title: "CMD how-tos"
      url: /how-tos/
-
+   - title: "Contact"
+     url: /contact/
