@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:joaquin.calbo@uv.es"
     - label: "Website"
-      icon: "<i class="fab fa-500px"></i>"
+      icon: "fab fa-500px"
       #icon: "fas fa-fw fa-link"
       url: "https://your-website.com"
     - label: "Twitter"
