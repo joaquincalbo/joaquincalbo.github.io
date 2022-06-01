@@ -20,6 +20,6 @@ gallery:
     title: "Image 4 title caption"
 ---
 
-Hi this is the funding....
+Hi this is the funding.... YEP
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
