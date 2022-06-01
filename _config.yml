@@ -122,7 +122,7 @@ author:
       #icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "Facebook"
-      icon: "fab fa-fw fa-500px"
+      icon: "fas fa-map-marker-alt"
       #icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/"
     - label: "GitHub"
