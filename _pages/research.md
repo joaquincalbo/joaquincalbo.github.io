@@ -9,6 +9,9 @@ permalink: /research/
 <i class="fab fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Joaquin_Calbo){:target="\_blank"}  
 <i class="far fa-radar"></i> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55520510800){:target="\_blank"}  
 <i class="fab fa-orcid"></i> [ORCID](https://orcid.org/0000-0003-4729-0757){:target="\_blank"}  
+<i class="fas fa-radar"></i>
+<i class="fad fa-file-search"></i>
+<i class="far fa-file-search"></i>
 
 
 # Research Lines
