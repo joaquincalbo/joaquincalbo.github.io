@@ -108,14 +108,15 @@ author:
   avatar           : "assets/images/image1.jpg"
   bio              : "Researcher at the Institute of Molecular Science and Assistant Professor at the Department of Physical Chemistry of the Universitat de València"
   location         : "Valencia - SPAIN"
-  email            :
+  email            : "joaquin.calbo@uv.es"
   links:
     - label: "joaquin.calbo@uv.es"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:joaquin.calbo@uv.es"
     - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      icon: "fas fa-fw fa-location-dot"
+      #icon: "fas fa-fw fa-link"
+      url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
