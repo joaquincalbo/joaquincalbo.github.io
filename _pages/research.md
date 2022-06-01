@@ -1,5 +1,5 @@
 ---
-title: Here I am
+title:
 layout: single
 permalink: /research/
 ---
