@@ -3,7 +3,7 @@ layout: splash
 permalink: /contact/
 ---
 
-Here is to contact
+#Here is to contact
 
 
 <form action="https://formspree.io/f/{form_id}" method="post">
