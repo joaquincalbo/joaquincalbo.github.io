@@ -3,12 +3,13 @@ layout: single
 permalink: /research/
 ---
 
-[Google Scholar](https://scholar.google.co.uk/citations?user=wzmgqIoAAAAJ&hl=en&oi=ao){:target="\_blank"}  
-[ResearchGate](https://www.researchgate.net/profile/Joaquin_Calbo){:target="\_blank"}  
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=55520510800){:target="\_blank"}  
-[ORCID](https://orcid.org/0000-0003-4729-0757){:target="\_blank"}  
-
 # Scientific Profiles
+
+<i class="fab fa-google"></i> [Google Scholar](https://scholar.google.co.uk/citations?user=wzmgqIoAAAAJ&hl=en&oi=ao){:target="\_blank"}  
+<i class="fab fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Joaquin_Calbo){:target="\_blank"}  
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=55520510800){:target="\_blank"}  
+<i class="fab fa-orcid"></i> [ORCID](https://orcid.org/0000-0003-4729-0757){:target="\_blank"}  
+
 
 # Research Lines
 
