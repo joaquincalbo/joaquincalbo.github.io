@@ -3,7 +3,7 @@ layout: splash
 permalink: /people/
 ---
 
-Hello world!
+Hello world! Its me
 
 # Molecular Materials Theoretical Chemistry group:
 Prof. Enrique Ortí  
