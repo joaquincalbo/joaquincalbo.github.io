@@ -20,5 +20,3 @@ Joaquín Calbo has a wide experience in the application of quantum chemistry met
 - Solid-state modelling of electroactive hybrid crystals: perovskites and porous frameworks
 
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
-
