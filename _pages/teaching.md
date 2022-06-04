@@ -1,9 +1,14 @@
 ---
-layout: archives
+layout: single
 permalink: /teaching/
 ---
 
-This is the teaching
+## Informatics for Chemistry
 
+Aplicaciones Informáticas en Química - [website](https://www.uv.es/qai/)
 
-Useful website for theoretical chemistry: 
+## Physical Chemistry (Quantum Chemistry and Spectroscopy) 
+
+[Orbital explorer](https://elearning.rutgers.edu/orbitalexplorer/): visualization of orbitals and BingOrbital
+
+## Linux and Linux System Managing
