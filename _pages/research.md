@@ -25,10 +25,10 @@ gallery:
     image_path: /assets/images/cover7.jpg
     alt: "placeholder image 4"
   - url: /assets/images/cover8.jpg
-     image_path: /assets/images/cover8.jpg
+    image_path: /assets/images/cover8.jpg
     alt: "placeholder image 4"
-      - url: /assets/images/cover9.jpg
-     image_path: /assets/images/cover9.jpg
+  - url: /assets/images/cover9.jpg
+    image_path: /assets/images/cover9.jpg
     alt: "placeholder image 4"
 ---
   
