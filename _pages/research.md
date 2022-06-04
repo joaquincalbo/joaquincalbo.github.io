@@ -19,6 +19,21 @@ gallery:
     image_path: /assets/images/cover4.jpg
     alt: "placeholder image 4"
     title: "Image 4 title caption"
+  - url: /assets/images/cover5.jpg
+    image_path: /assets/images/cover5.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption" 
+  - url: /assets/images/cover6.jpg
+    image_path: /assets/images/cover6.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
+  - url: /assets/images/cover7.jpg
+    image_path: /assets/images/cover7.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
+  - url: /assets/images/cover8.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
 ---
   
 ## Scientific Profiles
@@ -37,5 +52,5 @@ gallery:
 
 ## Covers
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery %}
 
