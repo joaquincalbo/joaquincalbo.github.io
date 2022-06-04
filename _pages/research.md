@@ -6,30 +6,39 @@ gallery:
   - url: /assets/images/cover1.jpg
     image_path: /assets/images/cover1.jpg
     alt: "placeholder image 1"
+    title: ""
   - url: /assets/images/cover2.jpg
     image_path: /assets/images/cover2.jpg
     alt: "placeholder image 2"
+    title: ""
   - url: /assets/images/cover3.jpg
     image_path: /assets/images/cover3.jpg
     alt: "placeholder image 3"
+    title: ""
   - url: /assets/images/cover4.jpg
     image_path: /assets/images/cover4.jpg
     alt: "placeholder image 4"
+    title: ""
   - url: /assets/images/cover5.jpg
     image_path: /assets/images/cover5.jpg
     alt: "placeholder image 4"
+    title: ""
   - url: /assets/images/cover6.jpg
     image_path: /assets/images/cover6.jpg
     alt: "placeholder image 4"
+    title: ""
   - url: /assets/images/cover7.jpg
     image_path: /assets/images/cover7.jpg
     alt: "placeholder image 4"
+    title: ""
   - url: /assets/images/cover8.jpg
     image_path: /assets/images/cover8.jpg
     alt: "placeholder image 4"
+    title: ""
   - url: /assets/images/cover9.jpg
     image_path: /assets/images/cover9.jpg
     alt: "placeholder image 4"
+    title: ""
 ---
   
 ## Scientific Profiles
