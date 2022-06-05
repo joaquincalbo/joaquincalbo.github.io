@@ -24,6 +24,14 @@ gallery:
     title: ""
 ---
 
+| <img src="/assets/images/members-jcr.jpg" alt="drawing" width="100"/>  |   |   |   |   |
+|---|---|---|---|---|
+| Caption  |   |   |   |   |
+| <img src="/assets/images/members-jcr.jpg" alt="drawing" width="100"/>  |  <img src="/assets/images/members-jcr.jpg" alt="drawing" width="100"/> |   |   |   |
+|  cation |  cation |   |   |   |
+
+
+
 <img src="/assets/images/members-jcr.jpg" alt="drawing" width="100"/>
 
 <p>
