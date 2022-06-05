@@ -24,6 +24,9 @@ gallery:
     title: ""
 ---
 
+![](/assets/images/members-mer.jpg)
+*image_caption*
+
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
  
