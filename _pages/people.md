@@ -30,17 +30,6 @@ gallery:
 | Joaquín Calbo | María Esteve Rochina | | | | 
 
 
-
-<img src="/assets/images/members-jcr.jpg" alt="drawing" width="100"/>
-
-<p>
-    <img src="/assets/images/members-jcr.jpg" alt>
-    <em>image_caption</em>
-</p>
-
-![](/assets/images/members-jcr.jpg)  
-*image_caption*
-
 {% include gallery caption="" %}
 
  
