@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /teaching/
+author_profile: true
 ---
 
 ## Informatics for Chemistry
