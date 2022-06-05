@@ -5,51 +5,28 @@ permalink: /contact/
 
 # Contact
 
-E-mail: joaquin.calbo@uv.es
+E-mail: joaquin.calbo@uv.es  
 Phone: +34 96 354 4444
 
 ## Office Address
 
-Instituto de Ciencia Molecular (ICMol)
-Office 3.1.4 (3rd floor)
-Calle Catedrático José Beltrán Martínez, 2
-46980 Paterna, Valencia
-SPAIN
+Instituto de Ciencia Molecular (ICMol)  
+Office 3.1.4 (3rd floor)  
+Calle Catedrático José Beltrán Martínez, 2  
+46980 Paterna, Valencia  
+SPAIN 
 
 ## Faculty Address
 
-Facultad de Química 
-Universitat de València
-Carrer del Dr. Moliner, 50
-46100 Burjassot, Valencia
+Facultad de Química  
+Universitat de València  
+Carrer del Dr. Moliner, 50  
+46100 Burjassot, Valencia  
 SPAIN
 
 
-<html>
-  <head>
-    <title>Add Map</title>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d306141.380212437!2d126.3453416664724!3d33.3711157139061!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x350ce3544cc84045%3A0x66bc36d2981ebf31!2sJeju-do%2C+South+Korea!5e0!3m2!1sen!2sus!4v1473136714592" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-    <link rel="stylesheet" type="text/css" href="./style.css" />
-    <script type="module" src="./index.js"></script>
-  </head>
-  <body>
-    <h3>My Google Maps Demo</h3>
-    <!--The div element for the map -->
-    <div id="map"></div>
-
-    <!-- 
-     The `defer` attribute causes the callback to execute after the full HTML
-     document has been parsed. For non-blocking uses, avoiding race conditions,
-     and consistent behavior across browsers, consider loading using Promises
-     with https://www.npmjs.com/package/@googlemaps/js-api-loader.
-    -->
-    <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&callback=initMap&v=weekly"
-      defer
-    ></script>
-  </body>
-</html>
 
 
 
