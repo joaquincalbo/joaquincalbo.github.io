@@ -1,9 +1,8 @@
 ---
 layout: single
 permalink: /contact/
+title:Contact
 ---
-
-# Contact
 
 E-mail: joaquin.calbo@uv.es  
 Phone: +34 96 354 4444
