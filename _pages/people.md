@@ -24,11 +24,10 @@ gallery:
     title: ""
 ---
 
-| <img src="/assets/images/members-jcr.jpg" alt="drawing" width="100"/>  |  |  |  |  |
-|---|---|---|---|---|
-| PI  |   |   |   |   |
+| <img src="/assets/images/members-jcr.jpg" alt="drawing" width="100"/>  | <img src="/assets/images/members-mer.jpg" alt="drawing" width="100"/>  |  |  |  |
+|:---:|:---:|:---:|:---:|:---:|
+| PI  | Phd  |   |   |   |
 | Joaquín Calbo | María Esteve Rochina | | | | 
-| <img src="/assets/images/members-jcr.jpg" alt="drawing" width="100"/>  |  <img src="/assets/images/members-jcr.jpg" alt="drawing" width="100"/> | |  cation |  cation | 
 
 
 
