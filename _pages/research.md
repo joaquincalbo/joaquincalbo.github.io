@@ -1,6 +1,7 @@
 ---
 title: Research
 layout: single
+author_profile: true
 permalink: /research/
 gallery:
   - url: /assets/images/cover1.jpg
