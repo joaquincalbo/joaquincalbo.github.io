@@ -27,7 +27,7 @@ gallery:
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
  
-[Molecular Materials Theoretical Chemistry group](www.molmattc.com/)
+[Molecular Materials Theoretical Chemistry group](http://www.molmattc.com/)
 
 
 # Collaborators
