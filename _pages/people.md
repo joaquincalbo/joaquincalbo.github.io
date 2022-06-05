@@ -24,10 +24,15 @@ gallery:
     title: ""
 ---
 
-![](/assets/images/members-mer.jpg)
+<p>
+    <img src="/assets/images/members-jcr.jpg" alt>
+    <em>image_caption</em>
+</p>
+
+![](/assets/images/members-jcr.jpg)  
 *image_caption*
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="" %}
 
  
 [Molecular Materials Theoretical Chemistry group](http://www.molmattc.com/)
