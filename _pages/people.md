@@ -24,6 +24,8 @@ gallery:
     title: ""
 ---
 
+<img src="drawing.jpg" alt="drawing" width="100"/>
+
 <p>
     <img src="/assets/images/members-jcr.jpg" alt>
     <em>image_caption</em>
