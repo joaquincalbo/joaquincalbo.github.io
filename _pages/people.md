@@ -12,12 +12,16 @@ gallery:
     title: "Image 1 title caption"
   - url: "" 
     image_path: ""
+    alt: ""
+    title: ""
+  - url: "fgrd"
+    image_path: "fg"
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: ""
-    image_path: ""
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
+  - url: "fg"
+    image_path: "gf"
+    alt: ""
+    title: ""
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
