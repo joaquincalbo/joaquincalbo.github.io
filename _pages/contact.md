@@ -3,14 +3,53 @@ layout: single
 permalink: /contact/
 ---
 
-#Here is to contact
+# Contact
+
+E-mail: joaquin.calbo@uv.es
+Phone: +34 96 354 4444
+
+## Office Address
+
+Instituto de Ciencia Molecular (ICMol)
+Office 3.1.4 (3rd floor)
+Calle Catedrático José Beltrán Martínez, 2
+46980 Paterna, Valencia
+SPAIN
+
+## Faculty Address
+
+Facultad de Química 
+Universitat de València
+Carrer del Dr. Moliner, 50
+46100 Burjassot, Valencia
+SPAIN
 
 
-<form action="https://formspree.io/f/{form_id}" method="post">
-  <label for="email">Your Email</label>
-  <input name="Email" id="email" type="email">
-  <button type="submit">Submit</button>
-</form>
+<html>
+  <head>
+    <title>Add Map</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+    <script type="module" src="./index.js"></script>
+  </head>
+  <body>
+    <h3>My Google Maps Demo</h3>
+    <!--The div element for the map -->
+    <div id="map"></div>
+
+    <!-- 
+     The `defer` attribute causes the callback to execute after the full HTML
+     document has been parsed. For non-blocking uses, avoiding race conditions,
+     and consistent behavior across browsers, consider loading using Promises
+     with https://www.npmjs.com/package/@googlemaps/js-api-loader.
+    -->
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&callback=initMap&v=weekly"
+      defer
+    ></script>
+  </body>
+</html>
 
 
 
@@ -24,17 +63,12 @@ For anything else, use the contact form below.
   </div>
   <div>
     <label id="title2" for="Field2">Email address <small>(will remain private)</small>
-      <input id="Field2" name="Field2" type="email" spellcheck="false" maxlength="255" required placeholder="email@address.com">
+      <input id="Field2" name="Field2" type="email" spellcheck="false" maxlength="255" required placeholder="Your email@address.com">
     </label>
   </div>
   <div>
     <label id="title1" for="Field1">Message
       <textarea id="Field1" name="Field1" spellcheck="true" rows="10" cols="50" required></textarea>
-    </label>
-  </div>
-  <div>
-    <label id="title10" for="Field10">How&rsquo;d you hear about my website?
-      <input id="Field10" name="Field10" type="text" maxlength="255" placeholder="e.g. Searching the web">
     </label>
   </div>
   <div>
