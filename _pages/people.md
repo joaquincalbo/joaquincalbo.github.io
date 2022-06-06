@@ -24,10 +24,9 @@ gallery:
     title: ""
 ---
 
-| <img src="/assets/images/members-jcr.jpg" alt="drawing" width="100"/>  | <img src="/assets/images/members-mer.jpg" alt="drawing" width="100"/>  |  |  |  |
-|:---:|:---:|:---:|:---:|:---:|
-| PI  | Phd  |   |   |   |
-| Joaquín Calbo | María Esteve Rochina | | | | 
+My ![alt attribute goes here!](/assets/images/members-jcr.jpg "This is a Title" )
+
+
 
 
 {% include gallery caption="" %}
