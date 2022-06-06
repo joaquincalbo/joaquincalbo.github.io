@@ -24,26 +24,8 @@ gallery:
     title: ""
 ---
 
-<div class="wrapper">
-<div class="grid">
-        <div class="grid-item">
-            <figure>
-                <img src="/assets/images/members-jcr.jpg" alt="" width="400">
-                <figcaption>Image Title</figcaption>
-            </figure>
-        </div>
-        <div class="grid-item">
-            <figure>
-                <img src="/assets/images/members-jcr.jpg" alt="" width="400">
-                <figcaption>Image Title</figcaption>
-            </figure>
-        </div>
-</div>
-</div>
-
-
-My ![alt attribute goes here!](/assets/images/members-jcr.jpg "This is a Title" )
-
+|HOla|que|
+|tal |pascual|
 
 
 
