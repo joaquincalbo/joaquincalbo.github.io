@@ -40,6 +40,9 @@ gallery:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
+{% include feature_row %}
+
+
 
 ![](/assets/images/members-jcr.jpg)
 *image_caption*
