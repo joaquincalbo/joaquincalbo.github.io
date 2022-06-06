@@ -24,9 +24,10 @@ gallery:
     title: ""
 ---
 
-| HOla | que |
+|  |  |
 |---|---|
 | tal  | pascual |
+| est | otro |
 
 
 
