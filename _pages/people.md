@@ -24,8 +24,9 @@ gallery:
     title: ""
 ---
 
-|HOla|que|
-|tal |pascual|
+| HOla | que |
+|---|---|
+| tal  | pascual |
 
 
 
