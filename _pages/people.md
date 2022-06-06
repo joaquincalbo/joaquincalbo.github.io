@@ -11,18 +11,7 @@ gallery:
     image_path: /assets/images/members-mer.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: "" 
-    image_path: ""
-    alt: ""
-    title: ""
-  - url: "fgrd"
-    image_path: "fg"
-    alt: "placeholder image 1"
-    title: ""
-  - url: "fg"
-    image_path: "gf"
-    alt: ""
-    title: ""
+
  feature_row:
   - image_path: /assets/images/members-jcr.jpg
     alt: "placeholder image 1"
@@ -41,17 +30,6 @@ gallery:
 ---
 
 {% include feature_row %}
-
-
-
-![](/assets/images/members-jcr.jpg)
-*image_caption*
-
-|  |  |
-|---|---|
-| tal  | pascual |
-| est | otro |
-
 
 
 {% include gallery caption="" %}
