@@ -1,6 +1,6 @@
 ---
 title: People
-layout: splash
+layout: single
 permalink: /people/
 feature_row:
   - image_path: /assets/images/members-jcr.jpg
