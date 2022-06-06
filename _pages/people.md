@@ -17,6 +17,15 @@ feature_row:
   - image_path: /assets/images/members-jcr.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+gallery:
+  - url: /assets/images/members-jcr.jpg
+    image_path: /assets/images/members-jcr.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/members-mer.jpg
+    image_path: /assets/images/members-mer.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 ---
 
 {% include feature_row %}
