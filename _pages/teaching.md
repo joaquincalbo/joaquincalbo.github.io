@@ -7,12 +7,12 @@ title: Teaching
 
 ## Informatics for Chemistry
 
-[Aplicaciones Informáticas en Química](https://www.uv.es/qai/): 1st year BSc Chemistry subject
+[Aplicaciones Informáticas en Química](https://www.uv.es/qai/){:target="\_blank"}: 1st year BSc Chemistry subject
 
 ## Quantum Chemistry and Spectroscopy
 
-[Orbital explorer](https://elearning.rutgers.edu/orbitalexplorer/): visualization of orbitals and BingOrbital
+[Orbital explorer](https://elearning.rutgers.edu/orbitalexplorer/){:target="\_blank"}: visualization of orbitals and BingOrbital
 
 ## Linux and Linux System Managing
 
-[EM-TCCM](https://www.emtccm.org/): Master in Theoretical chemistry and Computational Modelling  
+[EM-TCCM](https://www.emtccm.org/){:target="\_blank"}: Master in Theoretical chemistry and Computational Modelling  
