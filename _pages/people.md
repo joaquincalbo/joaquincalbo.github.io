@@ -9,12 +9,8 @@ feature_row:
     excerpt: "[María Esteve-Rochina](https://scholar.google.es/citations?user=Wens4YQAAAAJ&hl=es&oi=ao)<br>PhD Student"
 carousels:
   - images: 
-    - image: /assets/images/members-jcr2.jpg
-    - image: /assets/images/members-mer.jpg
+    - image: /assets/images/molmattc-1.jpg
 ---
-
-
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 {% include feature_row %}
 
@@ -22,12 +18,11 @@ carousels:
  
 [Molecular Materials Theoretical Chemistry group](http://www.molmattc.com/)
 
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
 # Alumni
 ...
 
-
-# Collaborators
-...  
 
 
 
