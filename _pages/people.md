@@ -23,7 +23,3 @@ carousels:
 # Alumni
 ...
 
-
-#image_path: /assets/images/members-mer.jpg
-#excerpt: "[María Esteve-Rochina](https://scholar.google.es/citations?user=Wens4YQAAAAJ&hl=es&oi=ao){:target="\_blank"} <br>PhD Student"
-
