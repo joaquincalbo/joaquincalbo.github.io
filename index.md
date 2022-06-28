@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: wide
 ---
 
 ![](/assets/images/main.jpg)
