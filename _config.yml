@@ -109,10 +109,10 @@ author:
   bio              : "Researcher &<br>Assistant Professor<br><br>Institute of Molecular Science<br>Dept. of Physical Chemistry<br>Universitat de València"
   location         : "Valencia - SPAIN"
   email            : "joaquin.calbo@uv.es"
-  links:
-    - label: "joaquin.calbo@uv.es"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:joaquin.calbo@uv.es"
+#  links:
+#    - label: "joaquin.calbo@uv.es"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:joaquin.calbo@uv.es"
  #   - label: "Website"
  #     icon: "fab fa-500px"
       #icon: "fas fa-fw fa-link"
