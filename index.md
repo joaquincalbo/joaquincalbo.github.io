@@ -3,4 +3,4 @@ layout: single
 author_profile: true
 ---
 
-![]/assets/images/main.jpg)
+![](/assets/images/main.jpg)
