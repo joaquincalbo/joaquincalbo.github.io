@@ -2,7 +2,7 @@
 layout: single
 permalink: /contact/
 title: Contact
-profile: true
+author_profile: true
 ---
 
 E-mail: joaquin.calbo@uv.es  
