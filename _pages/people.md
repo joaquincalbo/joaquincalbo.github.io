@@ -3,7 +3,7 @@ title: People
 layout: single
 permalink: /people/
 feature_row:
-  - image_path: /assets/images/members-jcr2.jpg
+  - image_path: /assets/images/members-jcr4.jpg
     excerpt: <a href="https://scholar.google.co.uk/citations?user=wzmgqIoAAAAJ&hl=en&oi=ao" target="_blank">Joaquín Calbo</a><br>Principal Investigator
   - image_path: /assets/images/members-mer2.jpg
     excerpt: <a href="https://scholar.google.co.uk/citations?user=Wens4YQAAAAJ&hl=en&oi=ao" target="_blank">María Esteve-Rochina</a><br>PhD Student from 2020
