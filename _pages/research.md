@@ -41,8 +41,10 @@ gallery:
     alt: "placeholder image 4"
     title: ""
 ---
-  
-### Scientific Profiles
+
+![](/assets/images/banner.jpg)
+
+## Scientific Profiles
 
 <i class="fab fa-google"></i> [Google Scholar](https://scholar.google.co.uk/citations?user=wzmgqIoAAAAJ&hl=en&oi=ao){:target="\_blank"}  
 <i class="fab fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Joaquin_Calbo){:target="\_blank"}  
@@ -56,7 +58,7 @@ gallery:
 - Electroactive building blocks used in the formation of enantiomeric 1D helical materials.
 - Solid-state modelling of electroactive hybrid crystals: perovskites and porous frameworks.
 
-# Covers
+## Covers
 
 {% include gallery %}
 
