@@ -8,7 +8,7 @@ main:
      url: /funding/
    - title: "Teaching"
      url: /teaching/
-   - title: "CMD how-tos"
-     url: /how-tos/
+   - title: "CMD"
+     url: /cmd/
    - title: "Contact"
      url: /contact/
