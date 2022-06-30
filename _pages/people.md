@@ -17,8 +17,8 @@ carousels:
 
 # The MolMatTC group
  
-headed by [Prof. Enrique Ortí](https://www2.scopus.com/authid/detail.uri?authorId=7006148186){:target="\_blank"}  
-[Molecular Materials Theoretical Chemistry group](http://www.molmattc.com/){:target="\_blank"}  
+Molecular Materials Theoretical Chemistry group [website](http://www.molmattc.com/){:target="\_blank"}  
+Group leader: [Prof. Enrique Ortí](https://www2.scopus.com/authid/detail.uri?authorId=7006148186){:target="\_blank"}  
 
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
