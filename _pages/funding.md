@@ -7,7 +7,7 @@ gallery:
   - image_path: /assets/images/funding2.jpg
 ---
 
-## Job Opportinities
+## Job Opportunities
 
 - Postdoc position in solid-state computational modelling ([PDF](/assets/documents/postdoc-position.pdf){:target="\_blank"})
 
