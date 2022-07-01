@@ -18,5 +18,3 @@ gallery:
 - 2017-2019 Generalitat Valenciana "Diseño in silico de MOFs para la reducción catalítica de CO2", APOSTD Generalitat Valenciana (Fondo social europeo) (APOSTD/2017/081)
 
 {% include gallery %}
-
-![](/assets/images/funding1.jpg) ![](/assets/images/funding2.jpg)
