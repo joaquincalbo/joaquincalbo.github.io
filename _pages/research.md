@@ -40,6 +40,10 @@ gallery:
     image_path: /assets/images/cover9.jpg
     alt: "placeholder image 4"
     title: ""
+  - url: /assets/images/cover10.jpg
+    image_path: /assets/images/cover10.jpg
+    alt: "placeholder image 4"
+    title: ""
 ---
 
 ![](/assets/images/banner.jpg)
