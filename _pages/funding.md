@@ -2,7 +2,7 @@
 layout: single
 permalink: /funding/
 title: Funding
-feature_row:
+gallery:
   - image_path: /assets/images/funding1.jpg
   - image_path: /assets/images/funding2.jpg
 ---
@@ -17,6 +17,6 @@ feature_row:
 - 2021-2022 Generalitat Valenciana "Descubrimiento acelerado de redes (metal)-orgánicas conductoras (DARCON)", GVA (GV/2021/027)
 - 2017-2019 Generalitat Valenciana "Diseño in silico de MOFs para la reducción catalítica de CO2", APOSTD Generalitat Valenciana (Fondo social europeo) (APOSTD/2017/081)
 
-{% include feature_row type="center" %}
+{% include gallery %}
 
-![](/assets/images/funding1.jpg x250) ![](/assets/images/funding2.jpg x250)
+![](/assets/images/funding1.jpg) ![](/assets/images/funding2.jpg)
