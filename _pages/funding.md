@@ -2,6 +2,9 @@
 layout: single
 permalink: /funding/
 title: Funding
+feature_row:
+  - image_path: /assets/images/funding1.jpg
+  - image_path: /assets/images/funding2.jpg
 ---
 
 ## Job Opportinities
