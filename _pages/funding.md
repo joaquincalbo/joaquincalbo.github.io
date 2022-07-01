@@ -6,7 +6,7 @@ title: Funding
 
 ## Job Opportinities
 
-- Postdoc position in solid-state computational modelling (![link](/assets/documents/postdoc-position.pdf))
+- Postdoc position in solid-state computational modelling ([link](/assets/documents/postdoc-position.pdf){:target="\_blank"} )
 
 ## Projects 
 
