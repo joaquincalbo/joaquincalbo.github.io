@@ -4,4 +4,5 @@ permalink: /cmd/
 title: CMD
 ---
 
-Computational Materials Design
+<br>
+Coming soon...
