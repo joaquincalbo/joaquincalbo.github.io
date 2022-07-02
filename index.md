@@ -1,7 +1,7 @@
 ---
 layout: splash
 ---
-
+<br>
 # Joaquín Calbo - Personal website
 
 *If you ask a stupid question to a computer, it will reply to you with a proportional stupid answer.*
