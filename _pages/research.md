@@ -44,6 +44,7 @@ gallery:
     image_path: /assets/images/cover10.jpg
     alt: "placeholder image 4"
     title: ""
+  - image_path: /assets/images/cover11.jpg
 ---
 
 ![](/assets/images/banner.jpg)
