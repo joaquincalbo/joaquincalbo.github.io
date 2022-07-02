@@ -9,3 +9,5 @@ layout: splash
 ![](/assets/images/main.jpg)
 
 *The answer to the ultimate question of life, the universe, and everything is... 42.*
+
+<span style="color:blue">some *blue* text</span>.
