@@ -47,7 +47,7 @@ gallery:
   - image_path: /assets/images/cover11.jpg
 ---
 
-![](/assets/images/banner3.jpg)
+![](/assets/images/banner4.jpg)
 
 ## Scientific Profiles
 
