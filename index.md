@@ -4,7 +4,7 @@ layout: splash
 <br>
 # Joaquín Calbo - Personal website
 
-*If you ask a stupid question to a computer, it will reply to you with a proportional stupid answer.*
+*If you ask a computer a stupid question, do not expect other than a proportionally stupid answer.*
   
 ![](/assets/images/main.jpg)
 
