@@ -10,4 +10,4 @@ layout: splash
 
 *The answer to the ultimate question of life, the universe, and everything is... 42.*
 
-<span style="color:#588286" class=italics>The answer to the ultimate question of life, the universe, and everything is... 42.</span>
+<span style="color:#588286" class="italic">The answer to the ultimate question of life, the universe, and everything is... 42.</span>
