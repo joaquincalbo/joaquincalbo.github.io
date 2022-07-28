@@ -9,7 +9,8 @@ gallery:
 
 ## Job Opportunities
 
-- Postdoc position in solid-state computational modelling ([PDF](/assets/documents/postdoc-position.pdf){:target="\_blank"})
+- No positions available at this moment
+<> - Postdoc position in solid-state computational modelling ([PDF](/assets/documents/postdoc-position.pdf){:target="\_blank"})
 
 ## Projects 
 
