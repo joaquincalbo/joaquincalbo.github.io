@@ -6,7 +6,9 @@ feature_row:
   - image_path: /assets/images/members-jcr4.jpg
     excerpt: <a href="https://scholar.google.co.uk/citations?user=wzmgqIoAAAAJ&hl=en&oi=ao" target="_blank">Joaquín Calbo</a><br>Principal Investigator<br>joaquin.calbo@uv.es
   - image_path: /assets/images/members-mer2.jpg
-    excerpt: <a href="https://scholar.google.co.uk/citations?user=Wens4YQAAAAJ&hl=en&oi=ao" target="_blank">María Esteve-Rochina</a><br>PhD Student from 2020<br>maria.esteve-rochina@uv.es
+    excerpt: <a href="https://scholar.google.co.uk/citations?user=Wens4YQAAAAJ&hl=en&oi=ao" target="_blank">María Esteve-Rochina</a><br>PhD Student<br>maria.esteve-rochina@uv.es
+      - image_path: /assets/images/members-mpe.jpg
+    excerpt: <a href="https://es.linkedin.com/in/manuel-p%C3%A9rez-escribano-8809a317b" target="_blank">Manuel Pérez-Escribano</a><br>PhD Student<br>manuelperezescribano@gmail.com
 carousels:
   - images: 
     - image: /assets/images/molmattc-1.jpg
