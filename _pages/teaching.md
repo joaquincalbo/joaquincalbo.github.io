@@ -17,6 +17,6 @@ title: Teaching
 
 [EM-TCCM](https://www.emtccm.org/){:target="\_blank"}: Master in Theoretical chemistry and Computational Modelling  
 [Linux Introduction](/assets/documents/linux slides.pptx){:target="\_blank"}: Introduction to Linux slides in PowerPoint
-[LINUX - The Command Line](/assets/documents/LINUX_TheCommandLine.pdf){:target="\_blank"}: An excellent book for Linux beginners
+[The Linux Command Line](/assets/documents/LINUX_TheCommandLine.pdf){:target="\_blank"}: An excellent book for Linux beginners
 
 
