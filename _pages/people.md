@@ -8,7 +8,7 @@ feature_row:
   - image_path: /assets/images/members-mer2.jpg
     excerpt: <a href="https://scholar.google.co.uk/citations?user=Wens4YQAAAAJ&hl=en&oi=ao" target="_blank">María Esteve-Rochina</a><br>PhD Student<br><sub>maria.esteve-rochina@uv.es</sub>
   - image_path: /assets/images/members-mpe.jpg
-    excerpt: <a href="https://es.linkedin.com/in/manuel-p%C3%A9rez-escribano-8809a317b" target="_blank">Manuel Pérez-Escribano</a><br>PhD Student<br>manuelperezescribano@gmail.com
+    excerpt: <a href="https://es.linkedin.com/in/manuel-p%C3%A9rez-escribano-8809a317b" target="_blank">Manuel Pérez-Escribano</a><br>PhD Student<br><sub>manuelperezescribano@gmail.com</sub>
 carousels:
   - images: 
     - image: /assets/images/molmattc-1.jpg
