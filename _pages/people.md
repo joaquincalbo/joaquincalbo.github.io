@@ -4,7 +4,7 @@ layout: single
 permalink: /people/
 feature_row:
   - image_path: /assets/images/members-jcr4.jpg
-    excerpt: <a href="https://scholar.google.co.uk/citations?user=wzmgqIoAAAAJ&hl=en&oi=ao" target="_blank">Joaquín Calbo</a><br>Principal Investigator<br><sub>joaquin.calbo@uv.es</sub>
+    excerpt: <a href="https://scholar.google.co.uk/citations?user=wzmgqIoAAAAJ&hl=en&oi=ao" target="_blank">Joaquín Calbo</a><br>Assistant Professor<br><sub>joaquin.calbo@uv.es</sub>
   - image_path: /assets/images/members-mer2.jpg
     excerpt: <a href="https://scholar.google.co.uk/citations?user=Wens4YQAAAAJ&hl=en&oi=ao" target="_blank">María Esteve-Rochina</a><br>PhD Student<br><sub>maria.esteve-rochina@uv.es</sub>
   - image_path: /assets/images/members-mpe.jpg
