@@ -63,7 +63,7 @@ gallery:
 - Electroactive building blocks used in the formation of enantiomeric 1D helical materials.
 - Solid-state modelling of electroactive hybrid crystals: perovskites and porous frameworks.
 
-## Covers
+## Graphical Art
 
 {% include gallery %}
 
