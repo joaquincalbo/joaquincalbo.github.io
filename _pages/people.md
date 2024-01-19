@@ -7,6 +7,8 @@ feature_row:
     excerpt: <a href="https://scholar.google.co.uk/citations?user=wzmgqIoAAAAJ&hl=en&oi=ao" target="_blank">Joaquín Calbo</a><br>Assistant Professor<br><sub>joaquin.calbo@uv.es</sub>
   - image_path: /assets/images/members-afa.jpg
     excerpt: <a href="https://mx.linkedin.com/in/alberto-fern%C3%A1ndez-alarc%C3%B3n-548127104" target="_blank">Alberto Fernández-Alarcón</a><br>Postdoc<br><sub>al.fedza@gmail.com</sub>
+  - image_path: /assets/images/members-ms.jpg
+    excerpt: <a href="https://scholar.google.com/citations?hl=es&user=4c3hP4wAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Maximiliano Senno</a><br>Postdoc<br><sub>maxisenno@gmail.com</sub>
   - image_path: /assets/images/members-mer2.jpg
     excerpt: <a href="https://scholar.google.co.uk/citations?user=Wens4YQAAAAJ&hl=en&oi=ao" target="_blank">María Esteve-Rochina</a><br>PhD Student<br><sub>maria.esteve-rochina@uv.es</sub>
   - image_path: /assets/images/members-mpe.jpg
