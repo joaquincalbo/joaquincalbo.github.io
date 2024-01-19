@@ -30,8 +30,8 @@ carousels:
 
 # The MolMatTC group
  
-Molecular Materials Theoretical Chemistry group ([website](http://www.molmattc.com/){:target="\_blank"})
-Group leader: [Prof. Enrique Ortí](https://www2.scopus.com/authid/detail.uri?authorId=7006148186){:target="\_blank"}
+Molecular Materials Theoretical Chemistry group ([website](http://www.molmattc.com/){:target="\_blank"})  
+Group leader: [Prof. Enrique Ortí](https://www2.scopus.com/authid/detail.uri?authorId=7006148186){:target="\_blank"}  
 Theoretical Chemistry Research Unit (UIQT)
 
 
@@ -40,11 +40,11 @@ Theoretical Chemistry Research Unit (UIQT)
 <br>
 # Alumni
 
-Álvaro Royo (Nanoscience & Nanotechnology MSc student, 2022-2023)
-Axel Melchor Gaona (TCCM MSc student, 2021-2023)
-Miguel Ángel Pià (TCCM MSc student, 2020-2023)
-Ainhoa Martín (Final degree project, 2022-2023)
-Jennifer Faro (Final degree project, 2022-2023)
-Ana Ambit (Final degree project, 2021-2023)
+Álvaro Royo (Nanoscience & Nanotechnology MSc student, 2022-2023)  
+Axel Melchor Gaona (TCCM MSc student, 2021-2023)  
+Miguel Ángel Pià (TCCM MSc student, 2020-2023)  
+Ainhoa Martín (Final degree project, 2022-2023)  
+Jennifer Faro (Final degree project, 2022-2023)  
+Ana Ambit (Final degree project, 2021-2023)  
 Hocine El Khaoudi Enyoury (EuroBachelor undergrad, 2019-2020)
 
