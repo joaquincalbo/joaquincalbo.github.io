@@ -20,6 +20,10 @@ carousels:
   - images: 
     - image: /assets/images/molmattc-1.jpg
     - image: /assets/images/molmattc-2.jpeg
+    - image: /assets/images/uiqt-1.jpg
+    - image: /assets/images/uiqt-2.jpg
+    - image: /assets/images/uiqt-3.jpg
+    - image: /assets/images/uiqt-4.jpg
 ---
 
 {% include feature_row %}
