@@ -28,7 +28,7 @@ carousels:
 
 {% include feature_row %}
 
-# The MolMatTC group
+# The MolMatTC group & UIQT
  
 Molecular Materials Theoretical Chemistry group ([website](http://www.molmattc.com/){:target="\_blank"})  
 Group leader: [Prof. Enrique Ortí](https://www2.scopus.com/authid/detail.uri?authorId=7006148186){:target="\_blank"}  
