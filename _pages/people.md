@@ -14,7 +14,7 @@ feature_row:
   - image_path: /assets/images/members-mpe.jpg
     excerpt: <a href="https://scholar.google.es/citations?user=WsE5ADsAAAAJ&hl=es&oi=ao" target="_blank">Manuel Pérez-Escribano</a><br>PhD Student<br><sub>manuelperezescribano@gmail.com</sub>
   - image_path: /assets/images/members-mu.jpg
-    excerpt: <a href="https://es.linkedin.com/in/maksadjon-umarov" target="_blank">Maksadjon Umarov</a><br>PhD Student<br><sub>makhsadjon.umarov@mail.ru</sub>
+    excerpt: <a href="https://es.linkedin.com/in/maksadjon-umarov" target="_blank">Maksadjon Umarov</a><br>MSc Student<br><sub>makhsadjon.umarov@mail.ru</sub>
 
 carousels:
   - images: 
@@ -39,7 +39,7 @@ Theoretical Chemistry Research Unit (UIQT)
 
 <br>
 # Alumni
-
+<span style="font-size:4em">
 · Álvaro Royo <span style="color:salmon">Nanoscience & Nanotechnology MSc student, 2022-2023)</span>  
 · Axel Melchor Gaona (TCCM MSc student, 2021-2023)  
 · Miguel Ángel Pià (TCCM MSc student, 2020-2023)  
@@ -47,4 +47,4 @@ Theoretical Chemistry Research Unit (UIQT)
 · Jennifer Faro (Final degree project, 2022-2023)  
 · Ana Ambit (Final degree project, 2021-2023)  
 · Hocine El Khaoudi Enyoury (EuroBachelor undergrad, 2019-2020)
-
+</span> 
