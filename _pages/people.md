@@ -40,7 +40,7 @@ Theoretical Chemistry Research Unit (UIQT)
 <br>
 # Alumni
 
-· Álvaro Royo (Nanoscience & Nanotechnology MSc student, 2022-2023)  
+· Álvaro Royo <span style="color:salmon">Nanoscience & Nanotechnology MSc student, 2022-2023)</span>  
 · Axel Melchor Gaona (TCCM MSc student, 2021-2023)  
 · Miguel Ángel Pià (TCCM MSc student, 2020-2023)  
 · Ainhoa Martín (Final degree project, 2022-2023)  
