@@ -2,7 +2,7 @@
 layout: splash
 ---
 <br>
-# Joaquín Calbo - Personal website
+# <span>Joaquín Calbo - Personal website<span>
   
 ![](/assets/images/main.jpg)
 
