@@ -35,7 +35,7 @@ Group leader: [Prof. Enrique Ortí](https://www2.scopus.com/authid/detail.uri?au
 Theoretical Chemistry Research Unit (UIQT)
 
 
-{% include carousel.html height="50" unit="%" duration="0" number="1" %}
+{% include carousel.html height="50" unit="%" number="1" %}
 
 <br>
 # Alumni
