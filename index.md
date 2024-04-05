@@ -2,8 +2,6 @@
 layout: splash
 ---
 
-<link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico">
-
 <br>
 <span style="font-size:1.5em;"><b>Joaquín Calbo - Personal website</b></span>
   
