@@ -201,8 +201,8 @@
   }
 
   // Add event listeners to detect mouse enter and leave events on the carousel
-  document.getElementById('carousel{{ number }}').addEventListener('mouseover', stopCarousel);
-  document.getElementById('carousel{{ number }}').addEventListener('mouseout', startCarousel);
+  document.getElementById('carousel{{ number }}').addEventListener('mouseenter', stopCarousel);
+  document.getElementById('carousel{{ number }}').addEventListener('mouseleave', startCarousel);
 
   // Function to check if an element is visible
   function isVisible(el) {
