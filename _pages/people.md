@@ -9,12 +9,8 @@ feature_row:
     excerpt: <a href="https://mx.linkedin.com/in/alberto-fern%C3%A1ndez-alarc%C3%B3n-548127104" target="_blank">Alberto Fernández-Alarcón</a><br>Postdoc<br><sub>al.fedza@gmail.com</sub>
   - image_path: /assets/images/members-ms.jpg
     excerpt: <a href="https://scholar.google.com/citations?hl=es&user=4c3hP4wAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Maximiliano Senno</a><br>Postdoc<br><sub>maxisenno@gmail.com</sub>
-  - image_path: /assets/images/members-mer2.jpg
-    excerpt: <a href="https://scholar.google.co.uk/citations?user=Wens4YQAAAAJ&hl=en&oi=ao" target="_blank">María Esteve-Rochina</a><br>PhD Student<br><sub>maria.esteve-rochina@uv.es</sub>
   - image_path: /assets/images/members-mpe.jpg
     excerpt: <a href="https://scholar.google.es/citations?user=WsE5ADsAAAAJ&hl=es&oi=ao" target="_blank">Manuel Pérez-Escribano</a><br>PhD Student<br><sub>manuelperezescribano@gmail.com</sub>
-  - image_path: /assets/images/members-mu.jpg
-    excerpt: <a href="https://es.linkedin.com/in/maksadjon-umarov" target="_blank">Maksadjon Umarov</a><br>MSc Student<br><sub>makhsadjon.umarov@mail.ru</sub>
 
 carousels:
   - images: 
@@ -40,12 +36,14 @@ Theoretical Chemistry Research Unit (UIQT)
 <br>
 # Alumni
 <span style="font-size:0.8em">
-· Álvaro Royo - <span style="color:salmon">Nanoscience & Nanotechnology MSc student, 2022-2023</span>  
-· Axel Melchor Gaona - <span style="color:salmon">TCCM MSc student, 2021-2023</span>    
-· Miguel Ángel Pià - <span style="color:salmon">TCCM MSc student, 2020-2023</span>   
-· Ainhoa Martín - <span style="color:salmon">Final degree project, 2022-2023</span>  
-· Jennifer Faro - <span style="color:salmon">Final degree project, 2022-2023</span>   
-· Ana Ambit - <span style="color:salmon">Final degree project, 2021-2023</span>   
+· María Esteve Rochina - <span style="color:salmon">PhD graduate, 2022-2024</span> 
+· Maksadjon Umarov - <span style="color:salmon">MSc TCCM graduate, 2022-2024</span> 
+· Álvaro Royo - <span style="color:salmon">MSc Nanoscience & Nanotechnology Graduate, 2022-2023</span>  
+· Axel Melchor Gaona - <span style="color:salmon">MSc TCCM Graduate, 2021-2023</span>    
+· Miguel Ángel Pià - <span style="color:salmon">MSc TCCM Graduate, 2020-2023</span>   
+· Ainhoa Martín - <span style="color:salmon">BSc in Chemistry, 2022-2023</span>  
+· Jennifer Faro - <span style="color:salmon">BSc in Chemistry, 2022-2023</span>   
+· Ana Ambit - <span style="color:salmon">BSc in Chemistry, 2021-2023</span>   
 · Hocine El Khaoudi Enyoury - <span style="color:salmon">EuroBachelor undergrad, 2019-2020
   </span>
  
