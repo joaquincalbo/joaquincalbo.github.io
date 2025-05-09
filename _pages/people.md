@@ -36,8 +36,8 @@ Theoretical Chemistry Research Unit (UIQT)
 <br>
 # Alumni
 <span style="font-size:0.8em">
-· María Esteve Rochina - <span style="color:salmon">PhD graduate, 2022-2024</span> 
-· Maksadjon Umarov - <span style="color:salmon">MSc TCCM graduate, 2022-2024</span> 
+· María Esteve Rochina - <span style="color:salmon">PhD graduate, 2022-2024</span>  
+· Maksadjon Umarov - <span style="color:salmon">MSc TCCM graduate, 2022-2024</span>  
 · Álvaro Royo - <span style="color:salmon">MSc Nanoscience & Nanotechnology Graduate, 2022-2023</span>  
 · Axel Melchor Gaona - <span style="color:salmon">MSc TCCM Graduate, 2021-2023</span>    
 · Miguel Ángel Pià - <span style="color:salmon">MSc TCCM Graduate, 2020-2023</span>   
