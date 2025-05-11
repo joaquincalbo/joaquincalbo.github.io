@@ -44,6 +44,6 @@ Theoretical Chemistry Research Unit (UIQT)
 · Ainhoa Martín Polo - <span style="color:salmon">BSc in Chemistry, 2022-2023</span>  
 · Jennifer Faro - <span style="color:salmon">BSc in Chemistry, 2022-2023</span>   
 · Ana Ambit - <span style="color:salmon">BSc in Chemistry, 2021-2023</span>   
-· Hocine El Khaoudi Enyoury - <span style="color:salmon">EuroBachelor undergrad, 2019-2020
+· Hocine El Khaoudi Enyoury - <span style="color:salmon">EuroBachelor in Chemistry, 2019-2020
   </span>
  
