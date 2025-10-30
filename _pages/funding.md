@@ -24,10 +24,24 @@ Postdoc fellowships:
 
 ## Projects as PI
 
-- 2025-2028 MCIU "Modelización Computacional de Sistemas Complejos para Energía y Sostenibilidad (CompPlex)", PID2024-162840NB-I00
-- 2022-2025 MCIN "Materiales disruptivos foto y electroactivos para células solares de perovskita híbridas 2D de alta estabilidad", TED2021-131255B-C44 funded by MCIN/AEI/10.13039/501100011033 and by European Union NextGenerationEU/PRTR
-- 2021-2023 MICIN "In-Silico Discovery of Porous Conductors (DISCO)", PID2020-119748GA-I00 funded by MICIN/AEI/10.13039/501100011033
-- 2021-2022 GV "Descubrimiento acelerado de redes (metal)-orgánicas conductoras (DARCON)", GVA (GV/2021/027)
-- 2017-2019 GV "Diseño in silico de MOFs para la reducción catalítica de CO2", APOSTD Generalitat Valenciana (Fondo social europeo) (APOSTD/2017/081)
+- 2025-2028 MCIU (Generación de Conocimiento)  
+  "Modelización Computacional de Sistemas Complejos para Energía y Sostenibilidad (CompPlex)"  
+  PID2024-162840NB-I00
+  
+- 2022-2025 MCIN (Proyectos Estratégicos Orientados a la Transición Ecológica y a la Transición Digital)  
+  "Materiales disruptivos foto y electroactivos para células solares de perovskita híbridas 2D de alta estabilidad"  
+  TED2021-131255B-C44
+  
+- 2021-2023 MICIN (Generación de Conocimiento)  
+  "In-Silico Discovery of Porous Conductors (DISCO)"  
+  PID2020-119748GA-I00
+  
+- 2021-2022 GV (Grupos de Investigación Emergentes)  
+  "Descubrimiento acelerado de redes (metal)-orgánicas conductoras (DARCON)"  
+  GV/2021/027
+  
+- 2017-2019 GV (APOSTD)  
+  "Diseño in silico de MOFs para la reducción catalítica de CO2"  
+  APOSTD/2017/081
 
 {% include gallery %}
