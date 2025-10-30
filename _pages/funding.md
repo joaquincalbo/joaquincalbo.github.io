@@ -7,15 +7,27 @@ gallery:
   - image_path: /assets/images/funding2.jpg
 ---
 
-## Job Opportunities
+## Opportunities
 
-- No positions available at this moment
-<!--- - Postdoc position in solid-state computational modelling ([PDF](/assets/documents/postdoc-position.pdf){:target="\_blank"}) -->
+Please get in touch with your CV and motivation before academic year for checking the oportunities in the following academic year.
 
-## Projects 
+PhD fellowships: 
+- [FPU national fellowship](https://www.ciencia.gob.es/Universidades/FPU.html) (open early natural year)
+- [GVA regional fellowship](https://ceice.gva.es/es/web/ciencia/convocatorias-actuales) (open early academic year)
+- [UV AdT university fellowship](https://www.uv.es/uvweb/universidad/es/investigacion-transferencia/financiacion/programa-ayudas-investigacion-uv/contratacion-personal-investigador-1285946452508.html) (open sometime in first semester)
+- [Fundación La Caixa INPhINIT](https://fundacionlacaixa.org/es/becas-doctorado-inphinit-convocatoria-retaining) (open early natural year)
+  
+Postdoc fellowships:
+- [Marie Curie MSCA fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) (contact period: early natural year)
+- [GVA regional fellowship](https://ceice.gva.es/es/web/ciencia/convocatorias-actuales) (open early academic year)
 
-- 2021-2023 Ministerio de Ciencia e Innovación "In-Silico Discovery of Porous Conductors (DISCO)", PID2020-119748GA-I00 funded by MICIN/AEI/10.13039/501100011033
-- 2021-2022 Generalitat Valenciana "Descubrimiento acelerado de redes (metal)-orgánicas conductoras (DARCON)", GVA (GV/2021/027)
-- 2017-2019 Generalitat Valenciana "Diseño in silico de MOFs para la reducción catalítica de CO2", APOSTD Generalitat Valenciana (Fondo social europeo) (APOSTD/2017/081)
+
+## Projects as PI
+
+- 2025-2028 MCIU "Modelización Computacional de Sistemas Complejos para Energía y Sostenibilidad (CompPlex)", PID2024-162840NB-I00
+- 2022-2025 MCIN "Materiales disruptivos foto y electroactivos para células solares de perovskita híbridas 2D de alta estabilidad", TED2021-131255B-C44 funded by MCIN/AEI/10.13039/501100011033 and by European Union NextGenerationEU/PRTR
+- 2021-2023 MICIN "In-Silico Discovery of Porous Conductors (DISCO)", PID2020-119748GA-I00 funded by MICIN/AEI/10.13039/501100011033
+- 2021-2022 GV "Descubrimiento acelerado de redes (metal)-orgánicas conductoras (DARCON)", GVA (GV/2021/027)
+- 2017-2019 GV "Diseño in silico de MOFs para la reducción catalítica de CO2", APOSTD Generalitat Valenciana (Fondo social europeo) (APOSTD/2017/081)
 
 {% include gallery %}
