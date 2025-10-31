@@ -12,14 +12,14 @@ gallery:
 Please get in touch with your CV and motivation before academic year for checking the oportunities in the following academic year.
 
 PhD fellowships: 
-- [FPU national fellowship](https://www.ciencia.gob.es/Universidades/FPU.html) (open early natural year)
-- [GVA regional fellowship](https://ceice.gva.es/es/web/ciencia/convocatorias-actuales) (open early academic year)
-- [UV AdT university fellowship](https://www.uv.es/uvweb/universidad/es/investigacion-transferencia/financiacion/programa-ayudas-investigacion-uv/contratacion-personal-investigador-1285946452508.html) (open sometime in first semester)
-- [Fundación La Caixa INPhINIT](https://fundacionlacaixa.org/es/becas-doctorado-inphinit-convocatoria-retaining) (open early natural year)
+- [FPU national fellowship](https://www.ciencia.gob.es/Universidades/FPU.html) (call opens early in the calendar year)
+- [GVA regional fellowship](https://ceice.gva.es/es/web/ciencia/convocatorias-actuales) (call opens early in the academic year)
+- [UV AdT university fellowship](https://www.uv.es/uvweb/universidad/es/investigacion-transferencia/financiacion/programa-ayudas-investigacion-uv/contratacion-personal-investigador-1285946452508.html) (call opens during the first semester)
+- [Fundación La Caixa INPhINIT](https://fundacionlacaixa.org/es/becas-doctorado-inphinit-convocatoria-retaining) (call opens early in the calendar year)
   
 Postdoc fellowships:
-- [Marie Curie MSCA fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) (contact period: early natural year)
-- [GVA regional fellowship](https://ceice.gva.es/es/web/ciencia/convocatorias-actuales) (open early academic year)
+- [Marie Curie MSCA fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) (contact period: early in the calendar year)
+- [GVA regional fellowship](https://ceice.gva.es/es/web/ciencia/convocatorias-actuales) (call opens early in the academic year)
 
 
 ## Projects as PI
