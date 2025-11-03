@@ -9,7 +9,7 @@ gallery:
 
 ## Opportunities
 
-Please get in touch with your CV and motivation before academic year for checking the oportunities in the following academic year.
+Please get in touch with your CV and motivation before academic year for checking the opportunities in the following academic year.
 
 PhD fellowships: 
 - [FPU national fellowship](https://www.ciencia.gob.es/Universidades/FPU.html) (call opens early in the calendar year)
@@ -19,6 +19,7 @@ PhD fellowships:
   
 Postdoc fellowships:
 - [Marie Curie MSCA fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) (contact period: early in the calendar year)
+- [JdC national fellowship](https://www.aei.gob.es/convocatorias/buscador-convocatorias) (call opens early in the academic year)
 - [GVA regional fellowship](https://ceice.gva.es/es/web/ciencia/convocatorias-actuales) (call opens early in the academic year)
 
 
