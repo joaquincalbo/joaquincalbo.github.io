@@ -12,9 +12,9 @@ feature_row:
   - image_path: /assets/images/members-mpe.jpg
     excerpt: <a href="https://scholar.google.es/citations?user=WsE5ADsAAAAJ&hl=es&oi=ao" target="_blank">Manuel Pérez-Escribano</a><br>Postdoc<br><sub>manuelperezescribano@gmail.com</sub>
   - image_path: /assets/images/members-ggp.jpg
-    excerpt: <a href="https://es.linkedin.com/in/gioele-garc%C3%ADa-pinar-783775137" target="_blank">Gioele García-Pinar</a><br>PhD Studentc<br><sub>gioele.garcia@uv.es</sub>
+    excerpt: <a href="https://es.linkedin.com/in/gioele-garc%C3%ADa-pinar-783775137" target="_blank">Gioele García-Pinar</a><br>PhD Student<br><sub>gioele.garcia@uv.es</sub>
   - image_path: /assets/images/members-amp.jpg
-    excerpt: <a href="https://es.linkedin.com/in/ainhoa-mart%C3%ADn-polo-7b3261255" target="_blank">Ainhoa Martín Polo</a><br>PhD Studentc<br><sub>ainhoa.martin@uv.es</sub>
+    excerpt: <a href="https://es.linkedin.com/in/ainhoa-mart%C3%ADn-polo-7b3261255" target="_blank">Ainhoa Martín Polo</a><br>PhD Student<br><sub>ainhoa.martin@uv.es</sub>
 
 carousels:
   - images: 
