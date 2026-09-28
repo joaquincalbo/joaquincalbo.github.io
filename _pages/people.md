@@ -3,7 +3,7 @@ title: People
 layout: single
 permalink: /people/
 feature_row:
-  - image_path: /assets/images/members-jcr4.jpg
+  - image_path: /assets/images/members-jcr5.jpg
     excerpt: <a href="https://scholar.google.co.uk/citations?user=wzmgqIoAAAAJ&hl=en&oi=ao" target="_blank">Joaquín Calbo</a><br>Associate Professor<br><sub>joaquin.calbo@uv.es</sub>
   - image_path: /assets/images/members-afa.jpg
     excerpt: <a href="https://mx.linkedin.com/in/alberto-fern%C3%A1ndez-alarc%C3%B3n-548127104" target="_blank">Alberto Fernández-Alarcón</a><br>Postdoc<br><sub>al.fedza@gmail.com</sub>
