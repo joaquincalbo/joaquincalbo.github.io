@@ -44,7 +44,10 @@ gallery:
     image_path: /assets/images/cover10.jpg
     alt: "placeholder image 4"
     title: ""
-  - image_path: /assets/images/cover11.jpg
+  - url: /assets/images/cover11.jpg
+    image_path: /assets/images/cover11.jpg
+    alt: "placeholder image 4"
+    title: ""
 ---
 
 <!-- ![](/assets/images/banner4.jpg) -->
