@@ -40,7 +40,7 @@ Theoretical Chemistry Research Unit (UIQT)
 <br>
 # Alumni
 <span style="font-size:0.8em">
-· Manuel Pérez Escribano - <span style="color:salmon">PhD graduate, 2022-2026</span> 
+· Manuel Pérez Escribano - <span style="color:salmon">PhD graduate, 2022-2026</span>  
 · María Esteve Rochina - <span style="color:salmon">PhD graduate, 2022-2024</span>  
 · Maksadjon Umarov - <span style="color:salmon">MSc TCCM graduate, 2022-2024</span>  
 · Álvaro Royo de Larios - <span style="color:salmon">MSc Nanoscience & Nanotechnology Graduate, 2022-2023</span>  
