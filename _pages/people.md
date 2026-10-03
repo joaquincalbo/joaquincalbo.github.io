@@ -42,14 +42,16 @@ Theoretical Chemistry Research Unit (UIQT)
 <span style="font-size:0.8em">
 · Manuel Pérez Escribano - <span style="color:salmon">PhD graduate, 2022-2026</span>  
 · María Esteve Rochina - <span style="color:salmon">PhD graduate, 2022-2024</span>  
-· Maksadjon Umarov - <span style="color:salmon">MSc TCCM graduate, 2022-2024</span>  
-· Álvaro Royo de Larios - <span style="color:salmon">MSc Nanoscience & Nanotechnology Graduate, 2022-2023</span>  
-· Axel Melchor Gaona - <span style="color:salmon">MSc TCCM Graduate, 2021-2023</span>    
-· Miguel Ángel Pià - <span style="color:salmon">MSc TCCM Graduate, 2020-2023</span>   
+· Maksadjon Umarov - <span style="color:salmon">MSc in TCCM, 2022-2024</span>  
+· Álvaro Royo de Larios - <span style="color:salmon">MSc Nanoscience & Nanotech, 2022-2023</span>  
+· Axel Melchor Gaona Carranza - <span style="color:salmon">MSc TCCM, 2021-2023</span>    
+· Miguel Ángel Pià - <span style="color:salmon">MSc in TCCM, 2020-2023</span>   
 · Ainhoa Martín Polo - <span style="color:salmon">BSc in Chemistry, 2022-2023</span>  
-· Jennifer Faro - <span style="color:salmon">BSc in Chemistry, 2022-2023</span>   
-· Ana Ambit - <span style="color:salmon">BSc in Chemistry, 2021-2023</span>   
+· Jennifer Faro Guara- <span style="color:salmon">BSc in Chemistry, 2022-2023</span>   
+· Ana Ambit Álvarez - <span style="color:salmon">BSc in Chemistry, 2021-2023</span>   
 · María Esteve Rochina - <span style="color:salmon">MSC TCCM Graduate, 2019-2021</span>  
-· Hocine El Khaoudi Enyoury - <span style="color:salmon">EuroBachelor in Chemistry, 2019-2020
+· Hocine El Khaoudi Enyoury - <span style="color:salmon">EuroBachelor in Chemistry, 2019-2020  
+  
+  TCCM = Theoretical Chemistry and Computational Modelling
   </span>
  
