@@ -51,8 +51,9 @@ Theoretical Chemistry Research Unit (UIQT)
 · Ana Ambit Álvarez - <span style="color:salmon">BSc in Chemistry, 2021-2023</span>   
 · María Esteve Rochina - <span style="color:salmon">MSC TCCM Graduate, 2019-2021</span>  
 · Hocine El Khaoudi Enyoury - <span style="color:salmon">EuroBachelor in Chemistry, 2019-2020</span> 
-  
+
+<span style="font-size:0.8em">
   <span style="color:salmon">TCCM = Theoretical Chemistry and Computational Modelling</span> 
-  </span>
+</span>
  
  
